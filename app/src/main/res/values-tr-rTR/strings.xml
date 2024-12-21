@@ -221,7 +221,6 @@
     <string name="import_playlist">Oynatma listesini içeri aktar</string>
     <string name="import_playlist_message">Android Medya Hafızası\'nda listelenen tüm çalma listelerini şarkılarla içe aktarır, çalma listesi zaten varsa şarkılar birleştirilir.</string>
     <string name="inserted_x_songs_into_playlist_x">%2$s listesine %1$d parçalar eklendi.</string>
-    <string name="instagram_page_summary">Instagram\'da Retro Müzik temanızı paylaşın</string>
     <string name="keyboard">Klavye</string>
     <string name="label_bit_rate">Bit Hızı</string>
     <string name="label_file_format">Biçim</string>

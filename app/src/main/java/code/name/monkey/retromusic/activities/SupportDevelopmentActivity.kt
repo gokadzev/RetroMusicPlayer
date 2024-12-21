@@ -46,9 +46,6 @@ class SupportDevelopmentActivity : AbsThemeActivity() {
 
         setupToolbar()
 
-        binding.paypal.setOnClickListener {
-            openUrl(PAYPAL_URL)
-        }
         binding.kofi.setOnClickListener {
             openUrl(KOFI_URL)
         }
@@ -61,7 +58,6 @@ class SupportDevelopmentActivity : AbsThemeActivity() {
     }
 
     companion object {
-        const val PAYPAL_URL = "https://paypal.me/quickersilver"
         const val KOFI_URL = "https://ko-fi.com/quickersilver"
     }
 }

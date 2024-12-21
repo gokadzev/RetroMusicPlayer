@@ -225,7 +225,6 @@
     <string name="import_playlist">Импорт плейлиста</string>
     <string name="import_playlist_message">Импортирует все плейлисты с треками, находящиеся в Android Media Store. Если плейлисты уже существуют, треки будут объединены</string>
     <string name="inserted_x_songs_into_playlist_x">В плейлист %2$s внесено %1$d треков</string>
-    <string name="instagram_page_summary">Поделитесь своим обзором на приложение Retro Music в Instagram</string>
     <string name="keyboard">Клавиатура</string>
     <string name="label_bit_rate">Битрейт</string>
     <string name="label_file_format">Расширение</string>
