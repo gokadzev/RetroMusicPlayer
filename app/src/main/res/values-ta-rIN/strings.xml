@@ -60,7 +60,7 @@
     <string name="added_x_titles_to_playing_queue">%1$d பாடல்கள் வரிசையில் சேர்க்கப்பட்டுள்ளது.</string>
     <string name="album">தொகுப்பு</string>
     <plurals name="albumSongs">
-        <item quantity="one">Song</item>
+        <item quantity="one">பாடல்</item>
         <item quantity="other">பாடல்கள்</item>
     </plurals>
     <string name="album_artist">பாடல் ஆசிரியர்</string>
@@ -290,7 +290,7 @@
     <string name="other_settings_summary">Advanced testing features</string>
     <string name="others">Other</string>
     <string name="over_cover">Over Cover</string>
-    <string name="password">Password</string>
+    <string name="password">கடவுச்சொல்</string>
     <string name="past_three_months">Past 3 months</string>
     <string name="paste_lyrics_here">Paste Lyrics Here</string>
     <string name="paste_timeframe_lyrics_here">Paste timeframe lyrics here</string>
