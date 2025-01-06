@@ -134,7 +134,6 @@ If you have any feature suggestions, please create an issue with detailed inform
 
 ## 🔗 Social links
 **Telegram:** https://t.me/retromusicapp <br>
-**Instagram:** https://instagram.com/retromusicapp <br>
 **Crowdin**: https://crowdin.com/project/retromusicplayer <br>
 **Pinterest:** https://pinterest.com/retromusicapp <br>
 **Twitter:** https://twitter.com/retromusicapp <br>

@@ -221,7 +221,6 @@
     <string name="import_playlist">Playlist importieren</string>
     <string name="import_playlist_message">Alle im Android-Medienspeicher abgelegten Playlists werden importiert. Falls die Playlists bereits existieren, werden die Titel eingefügt.</string>
     <string name="inserted_x_songs_into_playlist_x">%1$d Titel in Playlist %2$s eingefügt.</string>
-    <string name="instagram_page_summary">Teile dein Retro-Music-Design auf Instagram</string>
     <string name="keyboard">Tastatur</string>
     <string name="label_bit_rate">Bitrate</string>
     <string name="label_file_format">Format</string>

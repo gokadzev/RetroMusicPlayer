@@ -27,7 +27,6 @@ object Constants {
     const val TELEGRAM_CHANGE_LOG = "https://t.me/retromusiclog"
     const val USER_PROFILE = "profile.jpg"
     const val USER_BANNER = "banner.jpg"
-    const val APP_INSTAGRAM_LINK = "https://www.instagram.com/retromusicapp/"
     const val APP_TELEGRAM_LINK = "https://t.me/retromusicapp/"
     const val APP_TWITTER_LINK = "https://twitter.com/retromusicapp"
     const val FAQ_LINK = "https://github.com/RetroMusicPlayer/RetroMusicPlayer/blob/master/FAQ.md"
