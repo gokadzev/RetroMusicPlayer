@@ -10,7 +10,6 @@ import android.provider.BaseColumns
 import android.provider.MediaStore
 import android.util.Log
 import androidx.core.content.FileProvider
-import androidx.core.content.contentValuesOf
 import androidx.core.net.toUri
 import androidx.fragment.app.FragmentActivity
 import code.name.monkey.appthemehelper.util.VersionUtils
