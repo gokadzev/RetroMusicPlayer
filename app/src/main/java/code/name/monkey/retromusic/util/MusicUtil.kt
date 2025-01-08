@@ -340,7 +340,7 @@ object MusicUtil : KoinComponent {
             contentResolver.insert(artworkUri, values)
             contentResolver.notifyChange(artworkUri, null)
         } catch (e: IllegalArgumentException) {
-            e.printStackTrace()
+           Log.e("MusicUtil", "Failed to insert album art", e)
         }
     }
 
